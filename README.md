@@ -112,6 +112,4 @@ Run all cells top-to-bottom; the notebook regenerates `data/` and `outputs/` fro
 
 ## Author
 
-**Md Khadem Ali** · Head of Department, Geospatial & Data Analytics, CERI
-GeoAI · Disaster Risk Management · Remote Sensing · Geospatial Analytics
-[www.khademali.com](https://khademali.com)
+**Md Khadem Ali** · [www.khademali.com](https://khademali.com)
