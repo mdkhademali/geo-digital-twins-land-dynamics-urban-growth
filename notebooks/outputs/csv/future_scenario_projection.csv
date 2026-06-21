@@ -1,0 +1,21 @@
+year,class,area_km2,scenario
+2025,Water,288.07,baseline
+2025,Vegetation,222.2,baseline
+2025,Agricultural Land,1077.45,baseline
+2025,Built-up Area,270.25,baseline
+2025,Bare Land,59.61,baseline
+2030,Water,288.07,simulated
+2030,Vegetation,199.42,simulated
+2030,Agricultural Land,1049.37,simulated
+2030,Built-up Area,320.46,simulated
+2030,Bare Land,60.26,simulated
+2035,Water,288.07,simulated
+2035,Vegetation,184.09,simulated
+2035,Agricultural Land,1017.44,simulated
+2035,Built-up Area,365.62,simulated
+2035,Bare Land,62.34,simulated
+2040,Water,288.07,simulated
+2040,Vegetation,171.76,simulated
+2040,Agricultural Land,985.55,simulated
+2040,Built-up Area,407.29,simulated
+2040,Bare Land,64.91,simulated

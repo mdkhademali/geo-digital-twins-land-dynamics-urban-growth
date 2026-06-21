@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "natore_roads",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "road_class": "primary", "from": "Natore Town (District HQ)", "to": "Bonpara Bazar" }, "geometry": { "type": "LineString", "coordinates": [ [ 88.987, 24.4206 ], [ 88.968845957676933, 24.454239252076295 ], [ 88.95, 24.47 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "primary", "from": "Natore Town (District HQ)", "to": "Bagatipara" }, "geometry": { "type": "LineString", "coordinates": [ [ 88.987, 24.4206 ], [ 88.990459195187938, 24.347597916879344 ], [ 88.9833, 24.2833 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "primary", "from": "Natore Town (District HQ)", "to": "Naldanga" }, "geometry": { "type": "LineString", "coordinates": [ [ 88.987, 24.4206 ], [ 88.927920907265232, 24.37902444170475 ], [ 88.88, 24.33 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "primary", "from": "Singra", "to": "Bonpara Bazar" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.15, 24.45 ], [ 89.043342784062006, 24.457848849329302 ], [ 88.95, 24.47 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "primary", "from": "Singra", "to": "Gurudaspur" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.15, 24.45 ], [ 89.135711046945062, 24.339888601897176 ], [ 89.1167, 24.2333 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "primary", "from": "Baraigram", "to": "Bagatipara" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.0167, 24.2667 ], [ 88.990049297624012, 24.282680643647442 ], [ 88.9833, 24.2833 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "primary", "from": "Baraigram", "to": "Lalpur" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.0167, 24.2667 ], [ 89.007698950767534, 24.196008193787328 ], [ 88.9833, 24.1333 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "primary", "from": "Baraigram", "to": "Gurudaspur" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.0167, 24.2667 ], [ 89.068491637304291, 24.259568538320298 ], [ 89.1167, 24.2333 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Singra", "to": "local_0" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.15, 24.45 ], [ 89.174333311065084, 24.414239983770141 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Singra", "to": "local_1" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.15, 24.45 ], [ 89.134907688050049, 24.502261127902219 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Singra", "to": "local_2" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.15, 24.45 ], [ 89.181358144588856, 24.385955781585231 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Baraigram", "to": "local_0" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.0167, 24.2667 ], [ 89.047464182327133, 24.292306269340205 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Baraigram", "to": "local_1" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.0167, 24.2667 ], [ 89.060701070625598, 24.249967846050364 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Baraigram", "to": "local_2" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.0167, 24.2667 ], [ 88.966191687994083, 24.293810985029015 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Bagatipara", "to": "local_0" }, "geometry": { "type": "LineString", "coordinates": [ [ 88.9833, 24.2833 ], [ 89.025291282728531, 24.238462647177816 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Bagatipara", "to": "local_1" }, "geometry": { "type": "LineString", "coordinates": [ [ 88.9833, 24.2833 ], [ 89.019338705115914, 24.216510051350646 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Bagatipara", "to": "local_2" }, "geometry": { "type": "LineString", "coordinates": [ [ 88.9833, 24.2833 ], [ 89.034427636225345, 24.330846679258325 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Gurudaspur", "to": "local_0" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.1167, 24.2333 ], [ 89.146784611800385, 24.26523871221853 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Gurudaspur", "to": "local_1" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.1167, 24.2333 ], [ 89.147574775117448, 24.178132747770039 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Gurudaspur", "to": "local_2" }, "geometry": { "type": "LineString", "coordinates": [ [ 89.1167, 24.2333 ], [ 89.152091623991367, 24.290658751917093 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Lalpur", "to": "local_0" }, "geometry": { "type": "LineString", "coordinates": [ [ 88.9833, 24.1333 ], [ 88.916469638553082, 24.09177472090888 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Lalpur", "to": "local_1" }, "geometry": { "type": "LineString", "coordinates": [ [ 88.9833, 24.1333 ], [ 88.945441577384713, 24.076951451226179 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Lalpur", "to": "local_2" }, "geometry": { "type": "LineString", "coordinates": [ [ 88.9833, 24.1333 ], [ 89.005970043766951, 24.180130591809302 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Naldanga", "to": "local_0" }, "geometry": { "type": "LineString", "coordinates": [ [ 88.88, 24.33 ], [ 88.820206008768139, 24.327724196464224 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Naldanga", "to": "local_1" }, "geometry": { "type": "LineString", "coordinates": [ [ 88.88, 24.33 ], [ 88.792710084492754, 24.339328806177576 ] ] } },
+{ "type": "Feature", "properties": { "road_class": "secondary", "from": "Naldanga", "to": "local_2" }, "geometry": { "type": "LineString", "coordinates": [ [ 88.88, 24.33 ], [ 88.933202710563606, 24.292158354871745 ] ] } }
+]
+}

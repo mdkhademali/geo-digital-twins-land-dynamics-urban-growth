@@ -1,0 +1,31 @@
+year,class,area_km2
+2000,Water,288.07
+2000,Vegetation,360.7
+2000,Agricultural Land,1125.44
+2000,Built-up Area,55.91
+2000,Bare Land,87.46
+2005,Water,288.07
+2005,Vegetation,337.8
+2005,Agricultural Land,1125.3
+2005,Built-up Area,85.72
+2005,Bare Land,80.68
+2010,Water,288.07
+2010,Vegetation,313.71
+2010,Agricultural Land,1120.85
+2010,Built-up Area,118.13
+2010,Bare Land,76.81
+2015,Water,288.07
+2015,Vegetation,283.97
+2015,Agricultural Land,1115.76
+2015,Built-up Area,157.66
+2015,Bare Land,72.11
+2020,Water,288.07
+2020,Vegetation,255.69
+2020,Agricultural Land,1098.9
+2020,Built-up Area,209.18
+2020,Bare Land,65.73
+2025,Water,288.07
+2025,Vegetation,222.2
+2025,Agricultural Land,1077.45
+2025,Built-up Area,270.25
+2025,Bare Land,59.61

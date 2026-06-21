@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "natore_settlements",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Natore Town (District HQ)", "type": "district_hq", "population_est": 120000 }, "geometry": { "type": "Point", "coordinates": [ 88.987, 24.4206 ] } },
+{ "type": "Feature", "properties": { "name": "Singra", "type": "upazila_hq", "population_est": 28000 }, "geometry": { "type": "Point", "coordinates": [ 89.15, 24.45 ] } },
+{ "type": "Feature", "properties": { "name": "Baraigram", "type": "upazila_hq", "population_est": 18000 }, "geometry": { "type": "Point", "coordinates": [ 89.0167, 24.2667 ] } },
+{ "type": "Feature", "properties": { "name": "Bagatipara", "type": "upazila_hq", "population_est": 15000 }, "geometry": { "type": "Point", "coordinates": [ 88.9833, 24.2833 ] } },
+{ "type": "Feature", "properties": { "name": "Gurudaspur", "type": "upazila_hq", "population_est": 22000 }, "geometry": { "type": "Point", "coordinates": [ 89.1167, 24.2333 ] } },
+{ "type": "Feature", "properties": { "name": "Lalpur", "type": "upazila_hq", "population_est": 24000 }, "geometry": { "type": "Point", "coordinates": [ 88.9833, 24.1333 ] } },
+{ "type": "Feature", "properties": { "name": "Naldanga", "type": "upazila_hq", "population_est": 16000 }, "geometry": { "type": "Point", "coordinates": [ 88.88, 24.33 ] } },
+{ "type": "Feature", "properties": { "name": "Bonpara Bazar", "type": "market_town", "population_est": 12000 }, "geometry": { "type": "Point", "coordinates": [ 88.95, 24.47 ] } }
+]
+}
