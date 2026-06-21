@@ -82,7 +82,7 @@ Engine, USGS EarthExplorer, or OpenStreetMap/Overpass APIs. Administrative bound
 wetlands, and settlements use **verified real-world coordinates** (Banglapedia/BBS gazetteer); the
 satellite reflectance/thermal band stack is **synthetically generated** but spectrally and spatially
 realistic, calibrated to literature values. The full analytical pipeline (classification, change
-detection, indices, CA-Markov simulation) is code-identical to a production Earth Engine workflow —
+detection, indices, CA-Markov simulation) is code-identical to a production Earth Engine workflow,
 substituting genuine `ee.ImageCollection` calls in the preprocessing section requires no other
 changes. Full details are documented in the notebook's opening section.
 
@@ -109,10 +109,6 @@ Run all cells top-to-bottom; the notebook regenerates `data/` and `outputs/` fro
   url          = {https://khademali.com}
 }
 ```
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
 
 ## Author
 
